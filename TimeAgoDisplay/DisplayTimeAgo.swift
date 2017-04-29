@@ -93,7 +93,7 @@ extension Date {
         }
 
         return "\(quotient) \(unit)\(quotient == 1 ? "" : "s") ago"
-//        return "\(secondsAgo / day / 7) weeks ago"
+
     }
     
     
